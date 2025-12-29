@@ -1,6 +1,6 @@
 **System driver (MS-DOS 6.22) for the ALFI coordinate printer (plotter).**
 
- - It is necessary to convert the original 8-bit PC interface to the 16-bit PC interface, i.e. to LPT - parallel port. Unfortunately, I don't remember exactly how or which pins I connected - on the LPT port, personally, years ago.
+ - !!!!! It is necessary to convert the original 8-bit PC interface to the 16-bit PC interface, i.e. to LPT - parallel port. Unfortunately, I don't remember exactly how or which pins I connected - on the LPT port, personally, years ago. !!!!!
 
  - The driver is only intended for printing texts (in ASCII encoding) and not for printing graphics.
 
